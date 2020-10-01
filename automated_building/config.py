@@ -5,7 +5,6 @@ TELEGRAM_BOT_TOKEN = '<TELAGRAM API TOKEN>'
 # View chat ids 
 # https://api.telegram.org/bot<API TOKEN>/getUpdates
 TELEGRAM_GROUP_ID = '<GROUP TELEGRAM ID>'
-# TELEGRAM_GROUP_ID = '964661580'
 
 IS_FLUTTER = True
 VERBOSE = False
