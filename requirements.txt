@@ -1,0 +1,10 @@
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.10
+pathlib==1.0.1
+PyQRCode==1.2.1
+pyTelegramBotAPI==3.7.3
+requests==2.24.0
+requests-toolbelt==0.9.1
+six==1.15.0
+urllib3==1.25.10
